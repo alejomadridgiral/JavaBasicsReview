@@ -4,7 +4,7 @@ public class Square {
 
         public float sideSize;
 
-        public float getSideSize() {
+        public float getPerimeter() {
                 return this.sideSize * 4;
         }
 }
